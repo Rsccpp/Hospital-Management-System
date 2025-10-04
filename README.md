@@ -15,7 +15,7 @@ A comprehensive system to manage patients, doctors, and appointments for a hospi
 
 ---
 
-# 🌐 Technologies Used
+## 🌐 Technologies Used
 - Java
 - JDBC (Java Database Connectivity)
 - MySQL (or your preferred database system)
@@ -54,9 +54,7 @@ HospitalManagementSystem/
 ```
 ---
 
-# 🤝 Contributing
+## 🤝 Contributing
 - Contributions are welcome! Feel free to submit issues and pull requests.
 
 ---
-=======
-
