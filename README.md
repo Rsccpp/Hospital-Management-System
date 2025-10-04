@@ -51,6 +51,7 @@ HospitalManagementSystem/
         ├── HospitalManagementSystem.java
         ├── Doctor.java
         └── Patient.java
+```
 ---
 
 # 🤝 Contributing
