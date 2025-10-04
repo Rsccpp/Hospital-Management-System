@@ -1,4 +1,4 @@
-# 🏥 Hospital Management System Project
+
 
 A comprehensive system to manage patients, doctors, and appointments for a hospital. This project aims to streamline hospital operations and improve patient care through a centralized digital platform.
 
@@ -58,3 +58,5 @@ HospitalManagementSystem/
 - Contributions are welcome! Feel free to submit issues and pull requests.
 
 ---
+=======
+
