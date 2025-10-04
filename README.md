@@ -42,19 +42,17 @@ Follow these steps to set up and run the project on your local machine:
 
 ## 📂 Project Structure
 
-```text
-HospitalManagementSystem/
-├── lib/
-│   └── mysql-connector-j-9.4.0.jar
-└── src/
-    └── HospitalManagementSystem/
-        ├── HospitalManagementSystem.java
-        ├── Doctor.java
-        └── Patient.java
-```
+      ```text
+      HospitalManagementSystem/
+      ├── lib/
+      │   └── mysql-connector-j-9.4.0.jar
+      └── src/
+          └── HospitalManagementSystem/
+              ├── HospitalManagementSystem.java
+              ├── Doctor.java
+              └── Patient.java
+
 ---
 
 ## 🤝 Contributing
-- Contributions are welcome! Feel free to submit issues and pull requests.
-
----
+ Contributions are welcome! Feel free to submit issues and pull requests.
