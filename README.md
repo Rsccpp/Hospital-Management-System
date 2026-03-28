@@ -56,4 +56,4 @@ HospitalManagementSystem/
 ---
 
 ## 🤝 Contributing
- Contributions are welcome! Feel free to submit issues and pull requests.
+This is a personal portfolio project. Suggestions and improvements are welcome!
